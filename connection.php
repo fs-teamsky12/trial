@@ -1,5 +1,4 @@
 <?php
 
-$conn = mysqli_connect('localhost', 'root', '', 'contact')
-
+$conn = mysqli_connect('localhost', 'root', '', 'contacts')
 ?>
